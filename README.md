@@ -1,5 +1,4 @@
-# CHAOS Algorith
-# ASHOOB
+# dkn
 
 /*  hey there, this is momahdi Khaligh 
 I want to introduce to you amazing shit, "CHAOS Algorithm" 
