@@ -10,6 +10,6 @@ hope that be useful
 
 if(1)
 { 
-  follo_me ( on GitHub , Linkedin , Telegram channel);
+  follow_me ('on GitHub' , 'Linkedin' , 'Telegram channel');
 )
-else feedback("why");
+else tell_me("why");
